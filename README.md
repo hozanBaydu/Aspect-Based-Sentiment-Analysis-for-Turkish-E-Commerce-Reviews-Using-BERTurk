@@ -1,3 +1,10 @@
+## 📖 Research Publication
+For detailed methodology, experimental results, and performance metrics, please refer to the full paper:
+
+> **Hozan Baydu, Serkan Eren, Ahmet Furkan Faideci.** *"Aspect-Based Sentiment Analysis for Turkish E-Commerce Reviews Using BERTurk"*. 
+> **Full Paper:** [ResearchGate Link](https://www.researchgate.net/publication/401020330_Aspect-Based_Sentiment_Analysis_for_Turkish_E-Commerce_Reviews_Using_BERTurk)
+
+
 # Aspect-Based Sentiment Analysis for Turkish E-Commerce Reviews Using BERTurk
 
 This repository contains the official implementation and resources for the research project: **"Aspect-Based Sentiment Analysis for Turkish E-Commerce Reviews Using BERTurk"**. 
@@ -21,11 +28,7 @@ The system utilizes **BERTurk**, a state-of-the-art BERT model pre-trained speci
 - **Frameworks:** PyTorch, Transformers (Hugging Face)
 - **Tools:** SBERT, Scikit-learn, Pandas, NLTK
 
-## 📖 Research Publication
-For detailed methodology, experimental results, and performance metrics, please refer to the full paper:
 
-> **Hozan Baydu, Serkan Eren, Ahmet Furkan Faideci.** *"Aspect-Based Sentiment Analysis for Turkish E-Commerce Reviews Using BERTurk"*. 
-> **Full Paper:** [ResearchGate Link](https://www.researchgate.net/publication/401020330_Aspect-Based_Sentiment_Analysis_for_Turkish_E-Commerce_Reviews_Using_BERTurk)
 
 ## 📊 Methodology Highlights
 1. **Data Pre-processing:** Extensive cleaning and tokenization of Turkish e-commerce data.
